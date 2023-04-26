@@ -1,0 +1,19 @@
+{
+  "name": "irfanahmad-gm-assignment",
+  "version": "1.0.0",
+  "description": "QA-Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Irfan Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.10.0",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.3",
+    "cypress-plugin-tab": "^1.0.5"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "baseURL":"https://demoqa.com/",
+    "userEndpoint":"Account/v1/User",
+    "generateTokenEndpoint":"Account/v1/GenerateToken",
+    "authorizedUserEndpoint":"Account/v1/Authorized",
+    "booksEndpoint":"BookStore/v1/Books",
+    "bookEndpoint":"BookStore/v1/Book",
+    "password":"Optum@123"
+}
