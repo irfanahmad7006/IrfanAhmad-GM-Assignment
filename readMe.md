@@ -6,7 +6,7 @@ This project is based on Cyrpess with JavaScript which does reliable E2E testing
 
 Execution
 -----------------
-* Run `git clone https://github.com/irfanahmad7006/payback-playwright.git` in cmd prompt.
+* Run `git clone https://github.com/irfanahmad7006/IrfanAhmad-GM-Assignment.git` in cmd prompt.
 * Run `IrfanAhmad-GM-Assignment` in cmd prompt.
 * Run `npm install` in cmd prompt.
 * Run `npx cypress run` in cmd prompt for execution.
